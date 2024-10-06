@@ -1,0 +1,14 @@
+{
+  "name": "split-message-plugin",
+  "version": "1.0.0",
+  "description": "A plugin that splits long messages into smaller chunks.",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc -w"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "vencord": "^1.0.0"
+  }
+}
